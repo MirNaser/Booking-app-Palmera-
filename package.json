@@ -1,0 +1,24 @@
+{
+  "name": "booking-app-palmera-",
+  "version": "1.0.0",
+  "description": "A booking App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirNaser/Booking-app-Palmera-.git"
+  },
+  "author": "zubedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirNaser/Booking-app-Palmera-/issues"
+  },
+  "homepage": "https://github.com/MirNaser/Booking-app-Palmera-#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
